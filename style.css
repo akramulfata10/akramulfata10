@@ -1,5 +1,6 @@
 .jumbotron {
   background-color: #dc354680;
+  margin-bottom: 5rem;
 }
 
 #Projects {
@@ -7,11 +8,6 @@
 }
 
 section {
-  padding-top: 4rem;
-}
-
-section {
-  margin-bottom: 0px;
 }
 
 footer {
